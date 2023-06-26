@@ -7,8 +7,8 @@ I'm always trying to grow and learn something new and I just stumbled upon these
 
 - 🔭 I’m currently working on a <a href="https://reactjs.org/">ReactJs</a> app which is avilable at <a href="https://adventovate.github.io/">adventovate.github.io</a>
 - 🌱 I’m currently learning <a href="https://reactjs.org/">ReactJs</a>, <a href="https://www.adobe.com/in/products/aftereffects.html/">After Effects</a>, <a href="https://developer.android.com/">Android</a> among other things
-- 👯 I’m looking to collaborate on a open source project which would help us all learn new skills and grow
-- 🤔 I’m looking for help with <a href="https://adventovate.github.io/">adventovate.github.io</a> source code available at <a href="https://github.com/Adventovate/">Adventovate</a>
+- 👯 I’m looking to collaborate on any open source project which would help us all learn new skills and help me grow.
+- 🤔 I’m looking to improve exisiting applications while learning so any help is appreciated, you can find open source projects here <a href="https://github.com/shadygoneinsane?tab=repositories">My public Repositories</a> with source code.
 - 💬 Ask me about any of my projects or on Android as I spend most of my time coding and honing my skills on Android
 - 📫 You can reach me <a href="mailto:vikeshdass@gmail.com">via email</a>
 
